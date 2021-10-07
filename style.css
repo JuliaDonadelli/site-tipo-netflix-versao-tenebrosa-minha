@@ -1,0 +1,31 @@
+.container{
+    text-align: center;
+    padding: 20px;
+}
+
+.titulo{
+    font-family: monospace;
+    font-size: 20px;
+}
+
+.destaque{
+    background-color: purple;
+    color: white;
+}
+
+.container img{
+    height: 250px;
+    width: 170px;
+    object-fit: cover;
+    margin: 5px;
+}
+
+video{
+    width: 70vw;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+iframe{
+    widht: 70vw;
+}
